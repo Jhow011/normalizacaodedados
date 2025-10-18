@@ -15,5 +15,20 @@ Essa estrutura gerava **redundância**, **inconsistência** e dificultava a **ma
 🖼️ **Modelo antes da normalização:**  
 *(adicione aqui a imagem do modelo não normalizado)*  
 ```bash
-![](.)
+![](https://github.com/Jhow011/normalizacaodedados/blob/main/Captura%20de%20tela%202025-10-18%20105300.png)
 
+🧠 Depois da Normalização
+
+Após aplicar as formas normais (1FN, 2FN e 3FN), o banco foi dividido em tabelas específicas com relacionamentos bem definidos, garantindo organização, consistência e escalabilidade.
+
+As novas tabelas criadas foram:
+
+cliente
+contato
+endereco
+produto
+pedido
+item_pedido
+
+🖼️ Modelo depois da normalização:
+![]()
