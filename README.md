@@ -13,8 +13,6 @@ Essa estrutura gerava **redundância**, **inconsistência** e dificultava a **ma
 - Violações da 1ª e 2ª Forma Normal (1FN e 2FN)
 
 🖼️ **Modelo antes da normalização:**  
-*(adicione aqui a imagem do modelo não normalizado)*  
-```bash
 ![](https://github.com/Jhow011/normalizacaodedados/blob/main/Captura%20de%20tela%202025-10-18%20105300.png)
 
 🧠 Depois da Normalização
@@ -31,4 +29,4 @@ pedido
 item_pedido
 
 🖼️ Modelo depois da normalização:
-![]()
+![](https://github.com/Jhow011/normalizacaodedados/blob/main/Captura%20de%20tela%202025-10-18%20105409.png)
